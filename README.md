@@ -1,3 +1,4 @@
 # ML Project INT247 FACE RECOGNITION WITH PYTHON
  
-![snip](https://user-images.githubusercontent.com/56469940/162717290-6586cc25-0c8d-40ba-93aa-d9fc31775aef.jpg)
+
+![ss](https://user-images.githubusercontent.com/56469940/162754249-c50f4ea1-5a7c-429c-b74c-3438ef591049.jpg)
