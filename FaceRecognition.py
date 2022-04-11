@@ -1,7 +1,9 @@
 import numpy as np
 import cv2
 import os
+
 os.chdir(r"D:\LPU\Year 3\6th sem\ML Project")
+
 face_cascade=cv2.CascadeClassifier("harrcascade.xml")
 def detect_face(image):
     face_copy=image.copy()
